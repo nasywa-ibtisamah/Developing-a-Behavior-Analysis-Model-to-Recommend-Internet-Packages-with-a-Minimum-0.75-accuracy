@@ -3,7 +3,7 @@
 Hello there :wave:
 I hope this project finds you well!
 
-In this project, I will train a model that can analyze consumer behavior and recommend one of the two new packages: Smart or Ultra. For this project, the threshold for the accuracy level is 0.75. I evaluated the accuracy metric of my model using the test dataset.
+In this project, I will train a model that can analyze consumer behavior and recommend one of the two new packages: Smart or Ultra. For this project, the threshold for the accuracy level is 0.75. I evaluated the accuracy metric of my model using the test dataset. I will use 3 models, LR, decision tree and random forest
 
 **Objective**
 To train a model that can recommend a package based on consumer behavior with a minimum accuracy score of 0.75.
